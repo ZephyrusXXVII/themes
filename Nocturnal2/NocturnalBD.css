@@ -2239,18 +2239,6 @@
     color: #fff;
 }
 
-.activity-3uaYny:before {
-    opacity: .75;
-    content: "";
-    height: 100%;
-    width: 100%;
-    position: absolute;
-    left: 0;
-    top: 0;
-    z-index: 0;
-    border-radius: 8px;
-}
-
 .bodyAlignCenter-3E27PU,
 .bodyNormal-250CQK {
     opacity: .99;
